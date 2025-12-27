@@ -13,7 +13,4 @@ This project displays images in an organized grid layout.
 - CSS
 
 # Live Demo 
-
-
-
-
+ https://richasingh0123.github.io/photo-gallery/
